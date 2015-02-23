@@ -1,6 +1,6 @@
 {
   "name": "take",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Run tests on various versions of node.js/io.js using give",
   "author": "Maciej Małecki <me@mmalecki.com>",
   "repository": {
