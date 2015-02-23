@@ -10,9 +10,13 @@ npm -g install take
 You can also install it as a `devDependency`, if you want to use it to run
 tests on a package.
 
+```sh
+npm install --save-dev take
+```
+
 ## Usage
 ```sh
-take "node v0.12.0" "iojs v1.3.0" "npm test
+take "node v0.12.0" "iojs v1.3.0" "npm test"
 ```
 
 ## package.json
