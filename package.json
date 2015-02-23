@@ -1,0 +1,17 @@
+{
+  "name": "take",
+  "version": "0.0.0",
+  "description": "Run tests on various versions of node.js/io.js using give",
+  "author": "Maciej Małecki <me@mmalecki.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmalecki/take"
+  },
+  "dependencies": {
+    "async": "^0.9.0"
+  },
+  "bin": {
+    "take": "./take.js"
+  },
+  "license": "MIT"
+}
