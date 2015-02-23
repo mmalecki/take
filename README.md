@@ -30,5 +30,6 @@ take "node v0.12.0" "iojs v1.3.0" "npm test"
   "scripts": {
     "test": "node test/simple-test.js",
     "take": "take 'node v0.12.0' 'iojs v1.3.0' 'npm test'"
-  },
+  }
+}
 
